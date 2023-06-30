@@ -6,3 +6,4 @@
 [ロングヘア](hakkason/longhair.py)
 [タレ目](hakkason/tareme.py)
 [ポニーテール](hakkason/poniitail.py)
+[ツインテール](hakkason/tsuintail.py)
