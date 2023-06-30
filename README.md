@@ -8,5 +8,6 @@
 [ポニーテール](hakkason/poniitail.py)
 [ツインテール](hakkason/tsuintail.py)
 [メガネ](hakkason/megane.py)
+[sexy衣装](hakkason/sexy.py)
 #カノジョ
 [ポニーテール](kanojo/poniitail.py)
