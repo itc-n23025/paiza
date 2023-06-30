@@ -11,3 +11,4 @@
 [sexy衣装](hakkason/sexy.py)
 #カノジョ
 [ポニーテール](kanojo/poniitail.py)
+[ロングヘア](kanojo/longhair.py)
