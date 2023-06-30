@@ -7,3 +7,4 @@
 [タレ目](hakkason/tareme.py)
 [ポニーテール](hakkason/poniitail.py)
 [ツインテール](hakkason/tsuintail.py)
+[メガネ](hakkason/megane.py)
